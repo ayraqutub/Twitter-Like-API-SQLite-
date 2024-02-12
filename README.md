@@ -4,7 +4,9 @@ This project is a social media application implemented in Python and SQLite. It 
 User guide available in the Design Document
 
 This was a group collaboration. 
+
 Members: 
+  
   fgarcia, Francis Garcia 
 
   aqutub, Ayra Qutub
