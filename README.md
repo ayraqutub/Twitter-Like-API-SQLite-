@@ -12,4 +12,4 @@ This was a group collaboration.
   
 Note: To use system, the database file must be in the same folder as all files
 
-For more information about the application, view the Design Document.
+For more information about the application, view the [Design Document](https://github.com/ayraqutub/Twitter-Like-API-SQLite-/blob/main/Design%20Document.pdf).
