@@ -11,3 +11,5 @@ This was a group collaboration.
 - *ruchali*, Ruchali Aery
   
 Note: To use system, the database file must be in the same folder as all files
+
+For more information about the application, view the Design Document.
