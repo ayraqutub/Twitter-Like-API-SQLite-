@@ -5,14 +5,9 @@ User guide available in the Design Document
 
 This was a group collaboration. 
 
-Members: 
-  
-  fgarcia, Francis Garcia 
-
-  aqutub, Ayra Qutub
-
-  ruchali, Ruchali Aery
-
-  cejirohe, Cejiro Roque
+- *ayraqutub*, Ayra Qutub
+- *cejirohe*, Cejiro Roque
+- *fgarcia06*, Francis Garcia 
+- *ruchali*, Ruchali Aery
   
 Note: To use system, the database file must be in the same folder as all files
